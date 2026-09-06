@@ -12,7 +12,7 @@ Welcome to my portfolio! I am an undergraduate student combining a strong founda
 
 ## 🤝 Community & Social Work
 * **NSS (National Service Scheme):** Active Member (Involved in community service and social welfare activities)
-* [Registration certificate](Registration Certificate.pdf)
+* [Registration certificate](RegistrationCertificate.pdf).
 ## 💻 Skills & Interests
 * **Humanities & Management:** Advanced Communication, Content Writing, Critical Thinking, Office Administration
 * **Cybersecurity:** Network Security, Linux, SQL, Python (Basics), Security Information and Event Management (SIEM)
