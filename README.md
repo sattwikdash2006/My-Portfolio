@@ -7,7 +7,7 @@ Welcome to my portfolio! I am an undergraduate student combining a strong founda
 * **Diploma:** Diploma in Office Management
 * **Current Certification:** Google Cybersecurity Professional Certificate (Coursera, Ongoing)
 * **Global Event Certifications:** 
-  * [Promise of Yoga365 (Ministry of Ayush & Habuild)](certificates/yoga-certificate-1.jpg)
+  * [Promise of Yoga365 (Ministry of Ayush & Habuild)](IMG-20260614-WA0011.jpg)
   * [Certificate of Strength - World Records Union](certificates/yoga-certificate-2.jpg)
 
 ## 🤝 Community & Social Work
