@@ -35,7 +35,7 @@ This query filters the `log_in_attempts` table to return records where login att
 SELECT *
 FROM log_in_attempts
 WHERE login_time > '18:00' AND success = 0;
-'''
+```
 #### 2. Retrieve Login Attempts on Specific Dates
 This query uses the `OR` operator to filter the `log_in_attempts` table for activity that occurred on either `2022-05-09` or `2022-05-08`.
 
@@ -43,4 +43,4 @@ This query uses the `OR` operator to filter the `log_in_attempts` table for acti
 SELECT *
 FROM log_in_attempts
 WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
-'''
+```
