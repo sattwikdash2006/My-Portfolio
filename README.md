@@ -22,10 +22,3 @@ Welcome to my portfolio! I am an undergraduate student combining a strong founda
 
 ## 📬 How to reach me
 * Connect with me on GitHub and watch this space grow as I add more projects!
-
-## 🛠️ Projects
-
-### Apply Filters to SQL Queries
-
-**Project Description:**
-As a security professional, I performed several SQL queries on organizational datasets (`log_in_attempts` and `employees`) to investigate security incidents. By using filters with logical operators such as `AND`, `OR`, and `NOT`, along with pattern matching using `LIKE`, I was able to identify suspicious activities and isolate target employee groups for system updates.
