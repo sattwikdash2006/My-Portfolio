@@ -9,7 +9,8 @@ Welcome to my portfolio! I am an undergraduate student combining a strong founda
 * **Global Event Certifications:** 
   * [Promise of Yoga365 (Ministry of Ayush & Habuild)](IMG-20260614-WA0011.jpg)
   * [Certificate of Strength - World Records Union](IMG-20260617-WA0073.jpg)
-
+ * **Artificial Intelligence certificate:**
+  * Generative AI for Everyone - DeepLearning.AI (Andrew Ng)
 ## 🤝 Community & Social Work
 * **NSS (National Service Scheme):** Active Member (Involved in community service and social welfare activities)
   * [Registration certificate](Registration%20Certificate.pdf).
