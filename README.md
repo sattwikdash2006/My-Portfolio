@@ -11,7 +11,7 @@ Welcome to my portfolio! I am an undergraduate student combining a strong founda
   * [Certificate of Strength - World Records Union](IMG-20260617-WA0073.jpg)
 
 * **Artificial Intelligence certificate:**
-  * Generative AI for Everyone - DeepLearning.AI (Andrew Ng)
+  * Google Prompting Essentials Specialization (Coursera, Ongoing)
 ## 🤝 Community & Social Work
 * **NSS (National Service Scheme):** Active Member (Involved in community service and social welfare activities)
   * [Registration certificate](Registration%20Certificate.pdf).
