@@ -5,7 +5,7 @@ Welcome to my portfolio! I am an undergraduate student combining a strong founda
 ## 🎓 Education & Certifications
 * **Degree:** English Honours (Ongoing) - Egra Sarada Shashi Bhusan College
 * **Diploma:** Diploma in Office Management
-* **Current Certification:** Google Cybersecurity Professional Certificate (Coursera, Ongoing)
+* **Current Certification:** Google Cybersecurity Professional Certificate (Coursera)
 * **Global Event Certifications:** 
   * [Promise of Yoga365 (Ministry of Ayush & Habuild)](IMG-20260614-WA0011.jpg)
   * [Certificate of Strength - World Records Union](IMG-20260617-WA0073.jpg)
